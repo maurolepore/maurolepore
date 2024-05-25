@@ -6,7 +6,7 @@ and an editor for the software review program at
 [rOpenSci](https://ropensci.org/).
 
 * 😄 He/him
-* 📫 [LinkedIn](https://www.linkedin.com/in/mauro-lepore/), [fosstodon](https://fosstodon.org/@maurolepore), [email](maurolepore@gmail.com).
+* 📫 [fosstodon](https://fosstodon.org/@maurolepore), [LinkedIn](https://www.linkedin.com/in/mauro-lepore/), [email](maurolepore@gmail.com).
 * ⚡ I researched clams growth in Argentina, coral reefs ecology in
 Australia and Panama, and worked/lived/surfed all over.
 

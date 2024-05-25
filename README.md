@@ -6,8 +6,7 @@ and an editor for the software review program at
 [rOpenSci](https://ropensci.org/).
 
 * 😄 Pronouns: He/him
-* 📫 How to reach me: on [LinkedIn](https://www.linkedin.com/in/mauro-lepore/)  or
-by [email](maurolepore@gmail.com).
+* 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mauro-lepore/), [fosstodon](https://fosstodon.org/@maurolepore), [email](maurolepore@gmail.com).
 * ⚡ Fun fact: I researched clams growth in Argentina, coral reefs ecology in
 Australia and Panama, and worked/lived/surfed all over.
 

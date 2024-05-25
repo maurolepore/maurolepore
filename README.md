@@ -8,7 +8,7 @@ and an editor for the software review program at
 * 😄 Pronouns: He/him
 * 📫 How to reach me: on [LinkedIn](https://www.linkedin.com/in/mauro-lepore/)  or
 by [email](maurolepore@gmail.com).
-* ⚡ Fun fact: I researched clams' growth in Argentina, coral reefs ecology in
+* ⚡ Fun fact: I researched clams growth in Argentina, coral reefs ecology in
 Australia and Panama, and worked/lived/surfed all over.
 
 See some of my work on [YouTube](https://www.youtube.com/playlist?list=PLvgdJdJDL-APbB315sB3Lv_2VP2g0ioFO), 

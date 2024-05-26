@@ -39,6 +39,13 @@ of R packages to analyze forest diversity and dynamics
 ([website](https://forestgeo.github.io/fgeo/),
 [CRAN](https://cran.r-project.org/web/packages/fgeo/index.html)).
 
+### ACADEMIC
+
+* [I researched marine biology](https://www.researchgate.net/profile/Mauro-Lepore)
+as a post-doc at The Smithsonian Tropical Research Institute (Panama), as a PhD
+student at The University of Queensland (Australia), and as a graduate student
+at the University of Buenos Aires (Argentina).
+
 ### TECHNOLOGIES 
 
 Most commonly I work on the terminal or an IDE running in a containerized system
@@ -57,10 +64,3 @@ blog [posts](https://2degreesinvesting.github.io), and public repositories
 software peer review, and to
 [educational](https://cienciadedatos.github.io/datos/) and [research
 software](https://docs.ropensci.org/allodb/)).
-
-### ACADEMIC
-
-* [I researched marine biology](https://www.researchgate.net/profile/Mauro-Lepore)
-as a post-doc at The Smithsonian Tropical Research Institute (Panama), as a PhD
-student at The University of Queensland (Australia), and as a graduate student
-at the University of Buenos Aires (Argentina).

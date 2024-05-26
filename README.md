@@ -33,31 +33,31 @@ of R packages for banks to analyze climate scenarios
 ([website](https://pacta.rmi.org/pacta-for-banks-2020/),
 [CRAN](https://cran.r-project.org/web/packages/available_packages_by_name.html#available-packages-R)).
 
-* I worked at the Smithsonian National Museum of Natural History (USA) for
-[ForestGEO](https://www.forestgeo.si.edu/), where I built 'fgeo': A collection
-of R packages to analyze forest diversity and dynamics
+* I worked at the Smithsonian's NMNH (USA) for
+[ForestGEO](https://www.forestgeo.si.edu/) where I built 'fgeo': A collection of
+R packages to analyze forest diversity and dynamics
 ([website](https://forestgeo.github.io/fgeo/),
 [CRAN](https://cran.r-project.org/web/packages/fgeo/index.html)).
 
 ##### TECHNOLOGY
 
-These are the tools I most commonly use:
+Favorite tools:
 
 * Cloud provider: [DigitalOcean](https://www.digitalocean.com/).
 * OS: [Ubuntu](https://ubuntu.com/).
 * Containers: [Docker](https://www.docker.com/).
-* Version control: [git](https://git-scm.com/).
-* Terminal flavor: [oh my zsh](https://ohmyz.sh/).
 * Docker images: [rocker](https://rocker-project.org/).
+* Terminal flavor: [oh my zsh](https://ohmyz.sh/).
+* Version control: [git](https://git-scm.com/).
+* Git host: [GitHub](https://github.com/).
+* Git client for GitHub: [gh CLI](https://cli.github.com/).
+* CI/CD: [GitHub Actions](https://github.com/features/actions).
 * Programming language: [R](https://cran.r-project.org/).
+* IDE: [RStudio](https://posit.co/products/open-source/rstudio/).
 * R packages: From [r-lib](https://github.com/r-lib),
 [tidyverse](https://github.com/tidyverse),
 [rstudio](https://github.com/rstudio), and
 [ropensci](https://github.com/ropensci).
-* IDE: [RStudio](https://posit.co/products/open-source/rstudio/).
-* Git host: [GitHub](https://github.com/).
-* Git client for GitHub: [gh CLI](https://cli.github.com/).
-* CI/CD: [GitHub Actions](https://github.com/features/actions).
 
 ##### SERVICE
 

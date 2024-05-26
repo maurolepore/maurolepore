@@ -6,8 +6,6 @@
 
 <a href="http://www.github.com/maurolepore"><img src="https://github-readme-streak-stats.herokuapp.com/?user=maurolepore&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-----
-
 ##### JOBS
 
 I'm a research software engineer working remotely for the
@@ -80,7 +78,5 @@ software](https://docs.ropensci.org/allodb/)).
 as a post-doc at The Smithsonian Tropical Research Institute (Panama), as a PhD
 student at The University of Queensland (Australia), and as a graduate student
 at the University of Buenos Aires (Argentina).
-
-----
 
 <sup>Created with [profileme.dev](https://www.profileme.dev/)</sup>

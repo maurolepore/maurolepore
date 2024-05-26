@@ -6,14 +6,15 @@ Making research more reproducible, open, maintainable, and fun.
 
 ----
 
+JOB
+
 I'm a research software engineer working remotely for the
 ['tilt'](https://www.tiltsmes.org/) project of [Theia Finance
-Labs](https://theiafinance.org). Also I'm an editor for [rOpenSci's software
-peer-review program](https://ropensci.org/software-review/).
+Labs](https://theiafinance.org).
 
 I love learning, teaching, and supporting research workflows from end-to-end. 
 
-My work involves:
+Responsabilities:
 
 * Communication: Translating research ideas to reproducible examples and testable
 requirements.
@@ -26,11 +27,18 @@ maintainable.
 * Architecture: Evolving the system's architecture as necessary to allow growth.
 * Mentoring: Empowering other developers to do all of these themselves.
 
+TECHNOLOGIES 
+
 Most commonly I work on the terminal or an IDE running in a containerized system
 hosted locally or on the cloud
 ([dotfiles](https://github.com/maurolepore/dotfiles)).
 
-I share my work on
+COMMUNITY
+
+* I'm an editor for [rOpenSci's software
+peer-review program](https://ropensci.org/software-review/).
+
+* I share my work on
 [YouTube](https://www.youtube.com/playlist?list=PLvgdJdJDL-APbB315sB3Lv_2VP2g0ioFO),
 blog [posts](https://2degreesinvesting.github.io), and public repositories
 (pinned to [my profile](https://github.com/maurolepore/) are contributions to
@@ -38,7 +46,7 @@ software peer review, and to
 [educational](https://cienciadedatos.github.io/datos/) and [research
 software](https://docs.ropensci.org/allodb/)).
 
-Before:
+EXPERIENCE
 
 * I worked remotely for [2° Investing Initiative
 (Germany)](https://2degrees-investing.org/) where I built 'r2dii': A collection
@@ -51,6 +59,8 @@ of R packages for banks to analyze climate scenarios
 of R packages to analyze forest diversity and dynamics
 ([website](https://forestgeo.github.io/fgeo/),
 [CRAN](https://cran.r-project.org/web/packages/fgeo/index.html)).
+
+ACADEMIC
 
 * [I researched marine biology](https://www.researchgate.net/profile/Mauro-Lepore)
 as a post-doc at The Smithsonian Tropical Research Institute (Panama), as a PhD

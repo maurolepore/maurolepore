@@ -8,7 +8,7 @@ Making research more reproducible, open, maintainable, and fun.
 
 I'm a research software engineer working remotely for the
 ['tilt'](https://www.tiltsmes.org/) project of [Theia Finance
-Labs](https://theiafinance.org), and an editor for [rOpenSci's software
+Labs](https://theiafinance.org). Also I'm an editor for [rOpenSci's software
 peer-review program](https://ropensci.org/software-review/).
 
 I love learning, teaching, and supporting research workflows from end-to-end. 

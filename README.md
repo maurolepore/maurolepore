@@ -52,6 +52,19 @@ Most commonly I work on the terminal or an IDE running in a containerized system
 hosted locally or on the cloud
 ([dotfiles](https://github.com/maurolepore/dotfiles)).
 
+My favorite tools include: 
+
+- Severs on DigitalOcean.
+- Linux/Ubuntu.
+- Docker.
+- Git.
+- A Terminal with Oh-my-Zsh.
+- Docker images from the rocker project.
+- RStudio IDE.
+- GitHub.
+- GitHub Actions.
+- The gh CLI.
+
 ### COMMUNITY
 
 * I'm an editor for [rOpenSci's software

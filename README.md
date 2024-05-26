@@ -33,9 +33,9 @@ the [University of Buenos Aires (Argentina)](https://www.uba.ar/).
 
 You can also see my work on
 [videos](https://www.youtube.com/playlist?list=PLvgdJdJDL-APbB315sB3Lv_2VP2g0ioFO),
-[blogs](https://2degreesinvesting.github.io), and the repositories pinned to [my
-GitHub profile](https://github.com/maurolepore) -- including contributions to
-[educational](https://cienciadedatos.github.io/datos/) and [research
-software](https://docs.ropensci.org/allodb/),
+[blog posts](https://2degreesinvesting.github.io), and the repositories pinned
+to [my GitHub profile](https://github.com/maurolepore) -- including
+contributions to [educational](https://cienciadedatos.github.io/datos/) and
+[research software](https://docs.ropensci.org/allodb/),
 [books](https://devguide.ropensci.org/), and [software
 peer-review](https://github.com/ropensci/software-review).

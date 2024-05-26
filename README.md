@@ -22,7 +22,7 @@ requirements.
 (CI/CD).
 * Technical Writing: Writing documentation that is clear, correct, complete and
 maintainable.
-* Architecture: Evolving the system's architecture as necessary to allow growth.
+* Software architecture: Evolving the system's architecture as necessary to allow growth.
 * Mentoring: Empowering other developers to do all of these themselves.
 
 ### EXPERIENCE

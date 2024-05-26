@@ -11,8 +11,9 @@ I'm a research software engineer working remotely for the
 Labs](https://theiafinance.org), and an editor for [rOpenSci's software
 peer-review program](https://ropensci.org/software-review/).
 
-I love learning, teaching, and supporting research workflows from end-to-end. My
-work involves:
+I love learning, teaching, and supporting research workflows from end-to-end. 
+
+My work involves:
 
 * Communication: Translating research ideas to reproducible examples and testable
 requirements.

@@ -8,7 +8,7 @@
 
 ----
 
-##### JOB
+##### JOBS
 
 I'm a research software engineer working remotely for the
 ['tilt'](https://www.tiltsmes.org/) project of [Theia Finance
@@ -27,7 +27,7 @@ maintainable.
 * Software architecture: Evolving the system's architecture as necessary to allow growth.
 * Mentoring: Empowering other developers to do all of these themselves.
 
-##### EXPERIENCE
+Previously:
 
 * I worked remotely for [2° Investing Initiative
 (Germany)](https://2degrees-investing.org/) where I built 'r2dii': A collection
@@ -41,35 +41,27 @@ of R packages to analyze forest diversity and dynamics
 ([website](https://forestgeo.github.io/fgeo/),
 [CRAN](https://cran.r-project.org/web/packages/fgeo/index.html)).
 
-##### ACADEMIC
+##### TECHNOLOGY
 
-* [I researched marine biology](https://www.researchgate.net/profile/Mauro-Lepore)
-as a post-doc at The Smithsonian Tropical Research Institute (Panama), as a PhD
-student at The University of Queensland (Australia), and as a graduate student
-at the University of Buenos Aires (Argentina).
+These are the tools I most commonly use:
 
-##### TECHNOLOGIES 
+* Cloud provider: [DigitalOcean](https://www.digitalocean.com/).
+* OS: [Ubuntu](https://ubuntu.com/).
+* Containers: [Docker](https://www.docker.com/).
+* Version control: [git](https://git-scm.com/).
+* Terminal flavor: [oh my zsh](https://ohmyz.sh/).
+* Docker images: [rocker](https://rocker-project.org/).
+* Programming language: [R](https://cran.r-project.org/).
+* R packages: From [r-lib](https://github.com/r-lib),
+[tidyverse](https://github.com/tidyverse),
+[rstudio](https://github.com/rstudio), and
+[ropensci](https://github.com/ropensci).
+* IDE: [RStudio](https://posit.co/products/open-source/rstudio/).
+* Git host: [GitHub](https://github.com/).
+* Git client for GitHub: [gh CLI](https://cli.github.com/).
+* CI/CD: [GitHub Actions](https://github.com/features/actions).
 
-Most commonly I work on the terminal or an IDE running in a containerized system
-hosted locally or on the cloud
-([dotfiles](https://github.com/maurolepore/dotfiles)).
-
-My favorite tools include: 
-
-- Severs on DigitalOcean.
-- Linux/Ubuntu.
-- Docker.
-- Git.
-- A Terminal with Oh-my-Zsh.
-- Docker images from the rocker project.
-- R, devtools, reprex,tidyverse and friends.
-- RStudio IDE.
-- Markdown.
-- GitHub.
-- GitHub Actions.
-- The gh CLI.
-
-##### COMMUNITY
+##### SERVICE
 
 * I'm an editor for [rOpenSci's software
 peer-review program](https://ropensci.org/software-review/).
@@ -81,6 +73,13 @@ blog [posts](https://2degreesinvesting.github.io), and public repositories
 software peer review, and to
 [educational](https://cienciadedatos.github.io/datos/) and [research
 software](https://docs.ropensci.org/allodb/)).
+
+##### RESEARCH
+
+* [I researched marine ecology](https://www.researchgate.net/profile/Mauro-Lepore)
+as a post-doc at The Smithsonian Tropical Research Institute (Panama), as a PhD
+student at The University of Queensland (Australia), and as a graduate student
+at the University of Buenos Aires (Argentina).
 
 ----
 

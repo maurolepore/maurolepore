@@ -27,6 +27,20 @@ maintainable.
 * Architecture: Evolving the system's architecture as necessary to allow growth.
 * Mentoring: Empowering other developers to do all of these themselves.
 
+EXPERIENCE
+
+* I worked remotely for [2° Investing Initiative
+(Germany)](https://2degrees-investing.org/) where I built 'r2dii': A collection
+of R packages for banks to analyze climate scenarios
+([website](https://pacta.rmi.org/pacta-for-banks-2020/),
+[CRAN](https://cran.r-project.org/web/packages/available_packages_by_name.html#available-packages-R)).
+
+* I worked at the Smithsonian National Museum of Natural History (USA) for
+[ForestGEO](https://www.forestgeo.si.edu/), where I built 'fgeo': A collection
+of R packages to analyze forest diversity and dynamics
+([website](https://forestgeo.github.io/fgeo/),
+[CRAN](https://cran.r-project.org/web/packages/fgeo/index.html)).
+
 TECHNOLOGIES 
 
 Most commonly I work on the terminal or an IDE running in a containerized system
@@ -45,20 +59,6 @@ blog [posts](https://2degreesinvesting.github.io), and public repositories
 software peer review, and to
 [educational](https://cienciadedatos.github.io/datos/) and [research
 software](https://docs.ropensci.org/allodb/)).
-
-EXPERIENCE
-
-* I worked remotely for [2° Investing Initiative
-(Germany)](https://2degrees-investing.org/) where I built 'r2dii': A collection
-of R packages for banks to analyze climate scenarios
-([website](https://pacta.rmi.org/pacta-for-banks-2020/),
-[CRAN](https://cran.r-project.org/web/packages/available_packages_by_name.html#available-packages-R)).
-
-* I worked at the Smithsonian National Museum of Natural History (USA) for
-[ForestGEO](https://www.forestgeo.si.edu/), where I built 'fgeo': A collection
-of R packages to analyze forest diversity and dynamics
-([website](https://forestgeo.github.io/fgeo/),
-[CRAN](https://cran.r-project.org/web/packages/fgeo/index.html)).
 
 ACADEMIC
 

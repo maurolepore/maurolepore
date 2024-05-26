@@ -32,9 +32,8 @@ at the University of Buenos Aires (Argentina).
 
 I share my work on
 [YouTube](https://www.youtube.com/playlist?list=PLvgdJdJDL-APbB315sB3Lv_2VP2g0ioFO),
-blog [posts](https://2degreesinvesting.github.io), and public repositories --
-including contributions to software peer review ([editorial
-service](https://github.com/ropensci/software-review) and
-[guide](https://devguide.ropensci.org/)), and to
+blog [posts](https://2degreesinvesting.github.io), and public repositories
+(pinned to [my profile](https://github.com/maurolepore/) are contributions to
+software peer review, and to
 [educational](https://cienciadedatos.github.io/datos/) and [research
-software](https://docs.ropensci.org/allodb/).
+software](https://docs.ropensci.org/allodb/)).

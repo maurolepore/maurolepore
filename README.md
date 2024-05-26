@@ -10,7 +10,7 @@ Making research more reproducible, open, maintainable, and fun.
 
 I'm a research software engineer working remotely for the
 ['tilt'](https://www.tiltsmes.org/) project of [Theia Finance
-Labs](https://theiafinance.org). I love learning, teaching, and supporting research workflows from end-to-end. 
+Labs](https://theiafinance.org). 
 
 Responsabilities:
 

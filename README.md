@@ -23,7 +23,7 @@ requirements.
 * Technical Writing: Writing documentation that is clear, correct, complete and
 maintainable.
 * Software architecture: Evolving the system's architecture as necessary to allow growth.
-* Mentoring: Empowering other developers to do all of these themselves.
+* Mentoring: Empowering other developers to do these things themselves.
 
 Previously:
 

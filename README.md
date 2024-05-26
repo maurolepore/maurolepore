@@ -11,6 +11,32 @@ I'm a research software engineer working remotely for the
 Labs](https://theiafinance.org), and an editor for [rOpenSci's software
 peer-review program](https://ropensci.org/software-review/).
 
+I love learning, teaching, and supporting research workflows from end-to-end. My
+work involves:
+
+* Communication: Translating research ideas to reproducible examples and testable
+requirements.
+* Back-end development: Implementing valuable tools as quickly and cheaply as possible.
+* Front-end development: Designing intuitive user-interfaces to empower users.
+* DevOps: Building workflows to continuously integrate and deliver the system
+(CI/CD).
+* Technical Writing: Writing documentation that is clear, correct, complete and
+maintainable.
+* Architecture: Evolving the system's architecture as necessary to allow growth.
+* Mentoring: Empowering other developers to do all of these themselves.
+
+Most commonly I work on the terminal or an IDE running in a containerized system
+hosted locally or on the cloud
+([dotfiles](https://github.com/maurolepore/dotfiles)).
+
+I share my work on
+[YouTube](https://www.youtube.com/playlist?list=PLvgdJdJDL-APbB315sB3Lv_2VP2g0ioFO),
+blog [posts](https://2degreesinvesting.github.io), and public repositories
+(pinned to [my profile](https://github.com/maurolepore/) are contributions to
+software peer review, and to
+[educational](https://cienciadedatos.github.io/datos/) and [research
+software](https://docs.ropensci.org/allodb/)).
+
 Before:
 
 * I worked remotely for [2° Investing Initiative
@@ -29,11 +55,3 @@ of R packages to analyze forest diversity and dynamics
 as a post-doc at The Smithsonian Tropical Research Institute (Panama), as a PhD
 student at The University of Queensland (Australia), and as a graduate student
 at the University of Buenos Aires (Argentina).
-
-I share my work on
-[YouTube](https://www.youtube.com/playlist?list=PLvgdJdJDL-APbB315sB3Lv_2VP2g0ioFO),
-blog [posts](https://2degreesinvesting.github.io), and public repositories
-(pinned to [my profile](https://github.com/maurolepore/) are contributions to
-software peer review, and to
-[educational](https://cienciadedatos.github.io/datos/) and [research
-software](https://docs.ropensci.org/allodb/)).

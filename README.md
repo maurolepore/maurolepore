@@ -60,7 +60,7 @@ My favorite tools include:
 - Git.
 - A Terminal with Oh-my-Zsh.
 - Docker images from the rocker project.
-- R, devtools, reprex,tidyverse and friemds.
+- R, devtools, reprex,tidyverse and friends.
 - RStudio IDE.
 - Markdown.
 - GitHub.

@@ -41,7 +41,7 @@ R packages to analyze forest diversity and dynamics
 
 Favorite tools:
 
-* Cloud provider: [DigitalOcean](https://www.digitalocean.com/).
+* Cloud provider: [DigitalOcean](https://www.digitalocean.com/) (the only paid tool in my full stack).
 * OS: [Ubuntu](https://ubuntu.com/).
 * Containers: [Docker](https://www.docker.com/).
 * Docker images: [rocker](https://rocker-project.org/).

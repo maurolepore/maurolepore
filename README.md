@@ -41,7 +41,6 @@ R packages to analyze forest diversity and dynamics
 
 Favorite tools:
 
-* Project management: [GitHub projects](https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects/about-projects).
 * Cloud provider: [DigitalOcean](https://www.digitalocean.com/).
 * OS: [Ubuntu](https://ubuntu.com/).
 * Containers: [Docker](https://www.docker.com/).
@@ -51,6 +50,7 @@ Favorite tools:
 * Git host: [GitHub](https://github.com/).
 * Git client for GitHub: [gh CLI](https://cli.github.com/).
 * CI/CD: [GitHub Actions](https://github.com/features/actions).
+* Project management: [GitHub projects](https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects/about-projects).
 * Programming language: [R](https://cran.r-project.org/).
 * IDE: [RStudio](https://posit.co/products/open-source/rstudio/).
 * R packages: From [r-lib](https://github.com/r-lib),

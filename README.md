@@ -64,7 +64,7 @@ Favorite tools:
 * CI/CD: [GitHub Actions](https://github.com/features/actions).
 * Project management: [GitHub projects](https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects/about-projects).
 * Programming language: [R](https://cran.r-project.org/).
-* IDE: [RStudio](https://posit.co/products/open-source/rstudio/).
+* IDE: [vim](https://www.vim.org/), [RStudio](https://posit.co/products/open-source/rstudio/).
 * R packages: From [r-lib](https://github.com/r-lib),
 [tidyverse](https://github.com/tidyverse),
 [rstudio](https://github.com/rstudio), and

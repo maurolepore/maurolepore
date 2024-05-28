@@ -25,10 +25,15 @@ requirements.
 * Technical Writing: Writing documentation that is clear, correct, complete and
 maintainable.
 
-* Software architecture: Evolving the system's architecture as necessary to allow growth.  
+* Software architecture: Evolving the system's architecture as necessary to allow growth.
+<!-- Search for "clean architecture" https://github.com/search?q=org%3A2DegreesInvesting+%22clean+architecture%22&type=issues -->
+<!-- Plan to study: https://github.com/2DegreesInvesting/tilt/issues/28 -->
+<!-- Explain our system architecure with examples: https://github.com/2DegreesInvesting/tiltIndicator/pull/739#issuecomment-2112920673 -->
 
 * Mentoring: Empowering other developers to do these things themselves.  
-<!-- [Mentoring](https://github.com/2DegreesInvesting/tiltPlot/pull/130#discussion_r1617506216) -->
+<!-- Recomending "Clean coder", and "Communicating design decisions": https://github.com/2DegreesInvesting/tiltPlot/pull/130#discussion_r1617506216 -->
+
+
 
 Previously:
 

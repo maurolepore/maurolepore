@@ -14,14 +14,21 @@ Responsabilities:
 
 * Communication: Translating research ideas to reproducible examples and testable
 requirements.
+
 * Back-end development: Implementing valuable tools as quickly and cheaply as possible.
+
 * Front-end development: Designing intuitive user-interfaces to empower users.
+
 * DevOps: Building workflows to continuously integrate and deliver the system
 (CI/CD).
+
 * Technical Writing: Writing documentation that is clear, correct, complete and
 maintainable.
-* Software architecture: Evolving the system's architecture as necessary to allow growth.
-* Mentoring: Empowering other developers to do these things themselves.
+
+* Software architecture: Evolving the system's architecture as necessary to allow growth.  
+
+* Mentoring: Empowering other developers to do these things themselves.  
+<!-- [Mentoring](https://github.com/2DegreesInvesting/tiltPlot/pull/130#discussion_r1617506216) -->
 
 Previously:
 

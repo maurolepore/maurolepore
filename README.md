@@ -8,7 +8,7 @@ I solve problems systematically with data, research, and software.
 
 -----
 
-I'm a research software engineer for [tilt](https://tiltsmes.org/) ([Theia Finance Labs](https://theiafinance.org)), and editor of peer-review sofware at [rOpenSci](https://ropensci.org/). 
+I'm a remote research-software engineer for [tilt](https://tiltsmes.org/) ([Theia Finance Labs](https://theiafinance.org)), and editor of peer-review sofware at [rOpenSci](https://ropensci.org/). 
 
 I help research teams with the whole process:
 

@@ -14,26 +14,18 @@ I help research teams with the whole process:
 
 * Communication: Translating research ideas to reproducible examples and testable
 requirements.
-
 * Back-end development: Implementing valuable tools as quickly and cheaply as possible.
-
 * Front-end development: Designing intuitive user-interfaces to empower users.
-
 * DevOps: Building workflows to continuously integrate and deliver the system
 (CI/CD).
-
 * Technical Writing: Writing documentation that is clear, correct, complete and
 maintainable.
-
 * Software architecture: Evolving the system's architecture as necessary to allow growth.
 <!-- Search for "clean architecture" https://github.com/search?q=org%3A2DegreesInvesting+%22clean+architecture%22&type=issues -->
 <!-- Plan to study: https://github.com/2DegreesInvesting/tilt/issues/28 -->
 <!-- Explain our system architecure with examples: https://github.com/2DegreesInvesting/tiltIndicator/pull/739#issuecomment-2112920673 -->
-
 * Mentoring: Empowering other developers to do these things themselves.  
 <!-- Recomending "Clean coder", and "Communicating design decisions": https://github.com/2DegreesInvesting/tiltPlot/pull/130#discussion_r1617506216 -->
-
-
 
 Previously:
 
@@ -42,7 +34,6 @@ Previously:
 of R packages for banks to analyze climate scenarios
 ([website](https://pacta.rmi.org/pacta-for-banks-2020/),
 [CRAN](https://cran.r-project.org/web/packages/available_packages_by_name.html#available-packages-R)).
-
 * I worked at the Smithsonian's NMNH (USA) for
 [ForestGEO](https://www.forestgeo.si.edu/) where I built 'fgeo': A collection of
 R packages to analyze forest diversity and dynamics
@@ -74,7 +65,6 @@ Favorite tools:
 
 * I'm an editor for [rOpenSci's software
 peer-review program](https://ropensci.org/software-review/).
-
 * I share my work on
 [YouTube](https://www.youtube.com/playlist?list=PLvgdJdJDL-APbB315sB3Lv_2VP2g0ioFO),
 blog [posts](https://2degreesinvesting.github.io), and public repositories

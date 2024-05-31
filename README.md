@@ -1,6 +1,6 @@
 ## ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Mauro Lepore
 
-I solve problems systematically, with research, data, and software
+I solve problems systematically, with research, data, and software  
 RSE at [Theia Finance Labs](https://theiafinance.org) | editor at [rOpenSci](https://ropensci.org/)
 
 <p align="left">

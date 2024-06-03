@@ -15,7 +15,7 @@ I help turn ideas into [data science projects](https://r4ds.had.co.nz/introducti
 * Communication: Translating research ideas to reproducible examples and testable
 requirements.
 * Data engineering: Gathering and structuring useful data.
-* Back-end development: Implementing valuable tools as quickly and cheaply as possible.
+* Back-end development: Implementing valuable tools as quickly and cost-effectively as possible.
 * Front-end development: Designing intuitive user-interfaces to empower users.
 * DevOps: Building workflows to continuously integrate and deliver the system
 (CI/CD).

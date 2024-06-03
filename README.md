@@ -8,7 +8,7 @@
 
 -----
 
-I help researchers to develop their [data science projects](https://r4ds.had.co.nz/introduction.html#what-you-will-learn)
+I help turn ideas into [data science projects](https://r4ds.had.co.nz/introduction.html#what-you-will-learn):
 
 <img src=https://d33wubrfki0l68.cloudfront.net/571b056757d68e6df81a3e3853f54d3c76ad6efc/32d37/diagrams/data-science.png>
 

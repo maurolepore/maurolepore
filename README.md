@@ -12,7 +12,7 @@ I help turn ideas into [data science projects](https://r4ds.had.co.nz/introducti
 
 <img src=https://d33wubrfki0l68.cloudfront.net/571b056757d68e6df81a3e3853f54d3c76ad6efc/32d37/diagrams/data-science.png>
 
-I work with small teams and support their projects from end to end. I estimate effort, manage project boards, gather/wrangle/analyse data, build CI/CD workflows, engineer software systems, test, report,  build interactive applications, teach, and mentor.
+My work goes from end to end. I estimate effort, manage project boards, gather/wrangle/analyze data, build CI/CD workflows, engineer software systems, test, report,  build interactive applications, teach, and mentor.
 
 Most of my work is open source, and for non-for profit organisations. 
 

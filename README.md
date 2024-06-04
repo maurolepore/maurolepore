@@ -21,7 +21,7 @@ My previous doctoral (UQ, Australia) and postdoctoral research (Smithsonian, Pan
 <!-- Explain our system architecure with examples: https://github.com/2DegreesInvesting/tiltIndicator/pull/739#issuecomment-2112920673 -->
 <!-- Recomending "Clean coder", and "Communicating design decisions": https://github.com/2DegreesInvesting/tiltPlot/pull/130#discussion_r1617506216 -->
 
-Except for the innevitable cost of cloud servers, my favorite tools are open source and free:
+To make my work accessible to non-for-profit organizations, my tools are open source and free:
 
 * OS: [Ubuntu](https://ubuntu.com/).
 * Containers: [Docker](https://www.docker.com/).

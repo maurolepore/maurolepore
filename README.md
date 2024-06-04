@@ -14,9 +14,7 @@ I help turn ideas into [data science projects](https://r4ds.had.co.nz/introducti
 
 My work goes from end to end. I estimate effort, manage project boards, gather/wrangle/analyze data, build CI/CD workflows, engineer software systems, test, report,  build interactive applications, teach, and mentor.
 
-Most of my work is open source, and for non-for profit organisations. 
-
-My previous doctoral and postdoctoral research (marine ecology)  helps me understand the context and value of my work. I use systems and best practices to steadily advance projects despite great uncertainty, pressing timelines, and resticted budget.
+My previous doctoral (UQ, Australia) and postdoctoral research (Smithsonian, Panama) helps me to understand the people I help and the value I can add to them. I use systems and best practices to advance projects despite great uncertainty, pressing timelines, and resticted budget.
 
 <!-- Search for "clean architecture" https://github.com/search?q=org%3A2DegreesInvesting+%22clean+architecture%22&type=issues -->
 <!-- Plan to study: https://github.com/2DegreesInvesting/tilt/issues/28 -->

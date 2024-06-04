@@ -12,21 +12,34 @@ I help turn ideas into [data science projects](https://r4ds.had.co.nz/introducti
 
 <img src=https://d33wubrfki0l68.cloudfront.net/571b056757d68e6df81a3e3853f54d3c76ad6efc/32d37/diagrams/data-science.png>
 
-* Communication: Translating research ideas to reproducible examples and testable
-requirements.
-* Data engineering: Gathering and structuring useful data.
-* Back-end development: Implementing valuable tools as quickly and cost-effectively as possible.
-* Front-end development: Designing intuitive user-interfaces to empower users.
-* DevOps: Building workflows to continuously integrate and deliver the system
-(CI/CD).
-* Technical Writing: Writing documentation that is clear, correct, complete and
-maintainable.
-* Software architecture: Evolving the system's architecture as necessary to allow growth.
+I usually work with small teams and support them from end to end. I estimate effort, manage project boards, gather/wrangle/analyse data, build CI/CD workflows, engineer software systems, test, report,  build interactive applications, teach, and mentor.
+
+Most of my work is open source, and for non-for profit organisations. 
+
+My previous doctoral and postdoctoral research (marine ecology)  helps me understand the context and value of my work. I use systems and best practices to steadily advance projects despite great uncertainty, pressing timelines, and resticted budget.
+
 <!-- Search for "clean architecture" https://github.com/search?q=org%3A2DegreesInvesting+%22clean+architecture%22&type=issues -->
 <!-- Plan to study: https://github.com/2DegreesInvesting/tilt/issues/28 -->
 <!-- Explain our system architecure with examples: https://github.com/2DegreesInvesting/tiltIndicator/pull/739#issuecomment-2112920673 -->
-* Mentoring: Empowering other developers to do these things themselves.  
 <!-- Recomending "Clean coder", and "Communicating design decisions": https://github.com/2DegreesInvesting/tiltPlot/pull/130#discussion_r1617506216 -->
+
+Except for the innevitable cost of cloud servers, my favorite tools are open source and free:
+
+* OS: [Ubuntu](https://ubuntu.com/).
+* Containers: [Docker](https://www.docker.com/).
+* Docker images: [rocker](https://rocker-project.org/).
+* Terminal flavor: [oh my zsh](https://ohmyz.sh/).
+* Version control: [git](https://git-scm.com/).
+* Git host: [GitHub](https://github.com/).
+* Git client for GitHub: [gh CLI](https://cli.github.com/).
+* CI/CD: [GitHub Actions](https://github.com/features/actions).
+* Project management: [GitHub projects](https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects/about-projects).
+* Programming language: [R](https://cran.r-project.org/).
+* Text editor/IDE: [vim](https://www.vim.org/), [RStudio](https://posit.co/products/open-source/rstudio/).
+* R packages: From [r-lib](https://github.com/r-lib),
+[tidyverse](https://github.com/tidyverse),
+[rstudio](https://github.com/rstudio), and
+[ropensci](https://github.com/ropensci).
 
 Previously:
 
@@ -40,46 +53,6 @@ of R packages for banks to analyze climate scenarios
 R packages to analyze forest diversity and dynamics
 ([website](https://forestgeo.github.io/fgeo/),
 [CRAN](https://cran.r-project.org/web/packages/fgeo/index.html)).
-
-##### TECHNOLOGY
-
-Favorite tools:
-
-* Cloud provider: [DigitalOcean](https://www.digitalocean.com/) (the only paid tool in my full stack).
-* OS: [Ubuntu](https://ubuntu.com/).
-* Containers: [Docker](https://www.docker.com/).
-* Docker images: [rocker](https://rocker-project.org/).
-* Terminal flavor: [oh my zsh](https://ohmyz.sh/).
-* Version control: [git](https://git-scm.com/).
-* Git host: [GitHub](https://github.com/).
-* Git client for GitHub: [gh CLI](https://cli.github.com/).
-* CI/CD: [GitHub Actions](https://github.com/features/actions).
-* Project management: [GitHub projects](https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects/about-projects).
-* Programming language: [R](https://cran.r-project.org/).
-* IDE: [vim](https://www.vim.org/), [RStudio](https://posit.co/products/open-source/rstudio/).
-* R packages: From [r-lib](https://github.com/r-lib),
-[tidyverse](https://github.com/tidyverse),
-[rstudio](https://github.com/rstudio), and
-[ropensci](https://github.com/ropensci).
-
-##### SERVICE
-
-* I'm an editor for [rOpenSci's software
-peer-review program](https://ropensci.org/software-review/).
-* I share my work on
-[YouTube](https://www.youtube.com/playlist?list=PLvgdJdJDL-APbB315sB3Lv_2VP2g0ioFO),
-blog [posts](https://2degreesinvesting.github.io), and public repositories
-(pinned to [my profile](https://github.com/maurolepore/) are contributions to
-software peer review, and to
-[educational](https://cienciadedatos.github.io/datos/) and [research
-software](https://docs.ropensci.org/allodb/)).
-
-##### RESEARCH
-
-* [I researched marine ecology](https://www.researchgate.net/profile/Mauro-Lepore)
-as a post-doc at The Smithsonian Tropical Research Institute (Panama), as a PhD
-student at The University of Queensland (Australia), and as a graduate student
-at the University of Buenos Aires (Argentina).
 
 <a href="http://www.github.com/maurolepore"><img src="https://github-readme-streak-stats.herokuapp.com/?user=maurolepore&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 

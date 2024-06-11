@@ -14,7 +14,7 @@ I help turn ideas into [data science projects](https://r4ds.had.co.nz/introducti
 
 My work goes from end to end. I estimate effort, manage project boards, gather/wrangle/analyze data, build CI/CD workflows, engineer software systems, test, report,  build interactive applications, teach, and mentor.
 
-My previous doctoral (UQ, Australia) and postdoctoral research (Smithsonian, Panama) helps me to understand the people I help and the value I can add to them. I use systems and best practices to advance projects despite great uncertainty, pressing timelines, and resticted budget.
+My research background (PhD at UQ; postdoc at the Smithsonian) helps me to understand the people I help and the value I can add to them. I use design thinking, customized systems, and best practices to advance projects despite great uncertainty, pressing timelines, and resticted budget.
 
 <!-- Search for "clean architecture" https://github.com/search?q=org%3A2DegreesInvesting+%22clean+architecture%22&type=issues -->
 <!-- Plan to study: https://github.com/2DegreesInvesting/tilt/issues/28 -->
@@ -39,15 +39,14 @@ To make my work accessible to non-for-profit organizations, my tools are open so
 [rstudio](https://github.com/rstudio), and
 [ropensci](https://github.com/ropensci).
 
-Previously:
+I'm now helping to build 'tilt': A collection of R packages for banks to help small and medsized enterprises 'Transform In a Low Carbon Transition' ([website](https://www.tiltsmes.org/), [GitHub](https://2degreesinvesting.github.io/tiltIndicator/)).
 
-* I worked remotely for [2° Investing Initiative
-(Germany)](https://2degrees-investing.org/) where I built 'r2dii': A collection
-of R packages for banks to analyze climate scenarios
+Before:
+
+* I helped to build 'r2dii': A collection of R packages for banks to analyze climate scenarios
 ([website](https://pacta.rmi.org/pacta-for-banks-2020/),
 [CRAN](https://cran.r-project.org/web/packages/available_packages_by_name.html#available-packages-R)).
-* I worked at the Smithsonian's NMNH (USA) for
-[ForestGEO](https://www.forestgeo.si.edu/) where I built 'fgeo': A collection of
+* I helped to build 'fgeo': A collection of
 R packages to analyze forest diversity and dynamics
 ([website](https://forestgeo.github.io/fgeo/),
 [CRAN](https://cran.r-project.org/web/packages/fgeo/index.html)).

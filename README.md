@@ -39,14 +39,14 @@ To make my work accessible to non-for-profit organizations, my tools are open so
 [rstudio](https://github.com/rstudio), and
 [ropensci](https://github.com/ropensci).
 
-I'm now helping to build 'tilt': A collection of R packages for banks to help small and medsized enterprises 'Transform In a Low Carbon Transition' ([website](https://www.tiltsmes.org/), [GitHub](https://2degreesinvesting.github.io/tiltIndicator/)).
+I'm now building 'tilt': A collection of R packages for banks to help SMEs emit less carbon ([website](https://www.tiltsmes.org/), [GitHub](https://2degreesinvesting.github.io/tiltIndicator/)).
 
 Before:
 
-* I helped to build 'r2dii': A collection of R packages for banks to analyze climate scenarios
+* I built 'r2dii': A collection of R packages for banks to analyze climate scenarios
 ([website](https://pacta.rmi.org/pacta-for-banks-2020/),
 [CRAN](https://cran.r-project.org/web/packages/available_packages_by_name.html#available-packages-R)).
-* I helped to build 'fgeo': A collection of
+* I built 'fgeo': A collection of
 R packages to analyze forest diversity and dynamics
 ([website](https://forestgeo.github.io/fgeo/),
 [CRAN](https://cran.r-project.org/web/packages/fgeo/index.html)).

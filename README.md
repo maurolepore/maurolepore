@@ -1,3 +1,5 @@
+![banner](https://github.com/maurolepore/maurolepore/assets/5856545/000affa8-9fd9-4aec-b585-ac551e7375bb)
+
 ## ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Mauro Lepore (PhD)
 
 [Senior software developer at Theia Finance Labs](https://theiafinance.org/our-team/) | [Associate editor of software peer-review at rOpenSci](https://ropensci.org/author/mauro-lepore/)

@@ -1,17 +1,10 @@
-[Senior software developer](https://theiafinance.org/our-team/) @ Theia Finance Labs | [Associate editor](https://ropensci.org/author/mauro-lepore/) of peer-review software @ rOpenSci | Data science instructor @ The Carpentries | PhD @ UQ
-
-
-<p align="left">
-<a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" width="36" height="36" alt="rlang" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" width="36" height="36" alt="GNU Bash" /></a><a href="https://www.vim.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vim.svg" width="36" height="36" alt="Vim" /></a><a href="https://www.digitalocean.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/digitalocean-colored.svg" width="36" height="36" alt="Digital Ocean" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
-</p>
-
------
-
-I help turn ideas into [data science projects](https://r4ds.had.co.nz/introduction.html#what-you-will-learn):
+I help turn ideas into data science projects from end to end.
 
 <img src=https://d33wubrfki0l68.cloudfront.net/571b056757d68e6df81a3e3853f54d3c76ad6efc/32d37/diagrams/data-science.png>
 
-My work goes from end to end. I estimate effort, manage project boards, gather/wrangle/analyze data, build CI/CD workflows, engineer software systems, test, report,  build interactive applications, teach, and mentor.
+<sub>https://r4ds.had.co.nz/introduction.html</sub>
+
+I estimate effort, manage project boards, gather/wrangle/analyze data, build CI/CD workflows, engineer software systems, test, report,  build interactive applications, teach, and mentor.
 
 My research background (PhD at UQ; postdoc at the Smithsonian) helps me to understand the people I help and the value I can add to them. I use design thinking, customized systems, and best practices to advance projects despite great uncertainty, pressing timelines, and resticted budget.
 
@@ -19,6 +12,10 @@ My research background (PhD at UQ; postdoc at the Smithsonian) helps me to under
 <!-- Plan to study: https://github.com/2DegreesInvesting/tilt/issues/28 -->
 <!-- Explain our system architecure with examples: https://github.com/2DegreesInvesting/tiltIndicator/pull/739#issuecomment-2112920673 -->
 <!-- Recomending "Clean coder", and "Communicating design decisions": https://github.com/2DegreesInvesting/tiltPlot/pull/130#discussion_r1617506216 -->
+
+<p align="left">
+<a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" width="36" height="36" alt="rlang" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" width="36" height="36" alt="GNU Bash" /></a><a href="https://www.vim.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vim.svg" width="36" height="36" alt="Vim" /></a><a href="https://www.digitalocean.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/digitalocean-colored.svg" width="36" height="36" alt="Digital Ocean" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
+</p>
 
 To make my work accessible to non-for-profit organizations, my tools are open source and free:
 

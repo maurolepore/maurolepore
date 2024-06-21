@@ -1,4 +1,4 @@
-Quantitative scientist turned Research Software Engineer | [Senior software developer](https://theiafinance.org/our-team/) @ Theia Finance Labs | [Associate editor](https://ropensci.org/author/mauro-lepore/) of peer-review software @ rOpenSci | Data science instructor @ The Carpentries | PhD @ UQ
+[Senior software developer](https://theiafinance.org/our-team/) @ Theia Finance Labs | [Associate editor](https://ropensci.org/author/mauro-lepore/) of peer-review software @ rOpenSci | Data science instructor @ The Carpentries | PhD @ UQ
 
 ![banner](https://github.com/maurolepore/maurolepore/assets/5856545/000affa8-9fd9-4aec-b585-ac551e7375bb)
 

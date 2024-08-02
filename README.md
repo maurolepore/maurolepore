@@ -1,52 +1,29 @@
-I help to develop ideas as data science projects.
+I’m a data scientist with over 10 years of experience working with the full stack around R. I began as a researcher and transitioned to software development.
+
+RESEARCH
+
+Both my PhD in Australia and post-doc in Panama used statistical methods commonly used in data science, such as hypothesis testing, clustering, and principal component analysis. Much of that work has been published in eight academic journals, including Conservation Biology and Nature Scientific Reports.
+
+SOFTWARE DEVELOPMENT
+
+By 2017, my passion for reproducible and open science led me to join ForestGEO at the Smithsonian Institution (USA), where I worked full-time on research software development. I transformed their legacy code into "fgeo", a "universe" of five R packages that I still maintain on CRAN. 
+
+Between 2018 and 2019 I joined The Carpentries as a data-science instructor and rOpenSci as an editor of peer-review software, both part-time and pro-bono. 
+
+In 2019 I also joined Theia Finance Labs as a full-time software developer, where I created "r2dii", another "universe" of four R packages, which I published on CRAN and later delegated to co-authors. Since 2022, I’ve been leading the development of "tilt", my third "universe" of R packages. Its back-end will remain on GitHub and the front-end will be published online as an interactive R-shiny application.
+
+SKILLS
+
+Over the years, I’ve mastered a range of free and open-source tools, including Ubuntu, Docker, Git, R, and GitHub, and have tackled tasks spanning the entire data-science workflow: estimating effort, managing project boards, gathering, wrangling, and analyzing data, testing software, setting up CI/CD pipelines, writing computational reports, building interactive applications, and teaching. 
+
+SERVICE
+
+I regularly contribute to community projects to learn and share knowledge, such as my own data-science incubator on YouTube, the Ixpantia masterclass, and the rOpenSci Champions program.
+
+PLANS
+
+I plan to continue on this path — learning, sharing, and helping turn ideas into impactful data-science projects.
 
 <img src=https://d33wubrfki0l68.cloudfront.net/571b056757d68e6df81a3e3853f54d3c76ad6efc/32d37/diagrams/data-science.png>
 
 <sub>https://r4ds.had.co.nz/introduction.html</sub>
-
-I estimate effort, manage project boards, gather/wrangle/analyze data, build CI/CD workflows, engineer software systems, test, report,  build interactive applications, teach, and mentor.
-
-My research background (PhD at UQ; postdoc at the Smithsonian) helps me to understand the people I help and the value I can add to them. I use design thinking, customized systems, and best practices to advance projects despite great uncertainty, pressing timelines, and resticted budget.
-
-<!-- Search for "clean architecture" https://github.com/search?q=org%3A2DegreesInvesting+%22clean+architecture%22&type=issues -->
-<!-- Plan to study: https://github.com/2DegreesInvesting/tilt/issues/28 -->
-<!-- Explain our system architecure with examples: https://github.com/2DegreesInvesting/tiltIndicator/pull/739#issuecomment-2112920673 -->
-<!-- Recomending "Clean coder", and "Communicating design decisions": https://github.com/2DegreesInvesting/tiltPlot/pull/130#discussion_r1617506216 -->
-
-<p align="left">
-<a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" width="36" height="36" alt="GNU Bash" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a><a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" width="36" height="36" alt="rlang" /></a>
-</p>
-
-To make my work accessible to non-for-profit organizations, my tools are open source and free:
-
-* OS: [Ubuntu](https://ubuntu.com/).
-* Containers: [Docker](https://www.docker.com/).
-* Docker images: [rocker](https://rocker-project.org/).
-* Terminal flavor: [oh my zsh](https://ohmyz.sh/).
-* Version control: [git](https://git-scm.com/).
-* Git host: [GitHub](https://github.com/).
-* Git client for GitHub: [gh CLI](https://cli.github.com/).
-* CI/CD: [GitHub Actions](https://github.com/features/actions).
-* Project management: [GitHub projects](https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects/about-projects).
-* Programming language: [R](https://cran.r-project.org/).
-* Text editor/IDE: [vim](https://www.vim.org/), [RStudio](https://posit.co/products/open-source/rstudio/).
-* R packages: From [r-lib](https://github.com/r-lib),
-[tidyverse](https://github.com/tidyverse),
-[rstudio](https://github.com/rstudio), and
-[ropensci](https://github.com/ropensci).
-
-I'm now building 'tilt': A collection of R packages for banks to help SMEs emit less carbon ([website](https://www.tiltsmes.org/), [GitHub](https://2degreesinvesting.github.io/tiltIndicator/)).
-
-Before:
-
-* I built 'r2dii': A collection of R packages for banks to analyze climate scenarios
-([website](https://pacta.rmi.org/pacta-for-banks-2020/),
-[CRAN](https://cran.r-project.org/web/packages/available_packages_by_name.html#available-packages-R)).
-* I built 'fgeo': A collection of
-R packages to analyze forest diversity and dynamics
-([website](https://forestgeo.github.io/fgeo/),
-[CRAN](https://cran.r-project.org/web/packages/fgeo/index.html)).
-
-<a href="http://www.github.com/maurolepore"><img src="https://github-readme-streak-stats.herokuapp.com/?user=maurolepore&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<sup>Created with [profileme.dev](https://www.profileme.dev/)</sup>
